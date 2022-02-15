@@ -1,0 +1,9 @@
+xelatex example
+bibtex example
+xelatex example
+xelatex example
+del *.aux
+del *.bbl
+del *.blg
+del *.log
+del *.out
